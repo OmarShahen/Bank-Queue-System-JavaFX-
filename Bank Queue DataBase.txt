@@ -1,0 +1,54 @@
+omar A1 A 1 check payment 4 Sun May 17 14:20:13 PDT 2020
+Reda A2 A 1 check payment 4 Sun May 17 14:20:33 PDT 2020
+Elsyaed C1 C 3 ATMs Services 11 Sun May 17 14:20:42 PDT 2020
+mohamed C2 C 3 ATMs Services 11 Sun May 17 14:20:52 PDT 2020
+ C3 C 3 ATMs Services 11 Sun May 17 14:21:11 PDT 2020
+ C4 C 3 ATMs Services 11 Sun May 17 14:21:11 PDT 2020
+ C5 C 3 ATMs Services 11 Sun May 17 14:21:11 PDT 2020
+ C6 C 3 ATMs Services 11 Sun May 17 14:21:11 PDT 2020
+ C7 C 3 ATMs Services 11 Sun May 17 14:21:12 PDT 2020
+ C8 C 3 ATMs Services 11 Sun May 17 14:21:12 PDT 2020
+ C9 C 3 ATMs Services 11 Sun May 17 14:21:12 PDT 2020
+ C10 C 3 ATMs Services 11 Sun May 17 14:21:12 PDT 2020
+ C11 C 3 ATMs Services 11 Sun May 17 14:21:12 PDT 2020
+ C12 C 3 ATMs Services 11 Sun May 17 14:21:12 PDT 2020
+ C13 C 3 ATMs Services 11 Sun May 17 14:21:12 PDT 2020
+ C14 C 3 ATMs Services 11 Sun May 17 14:21:13 PDT 2020
+ C15 C 3 ATMs Services 11 Sun May 17 14:21:13 PDT 2020
+ C16 C 3 ATMs Services 11 Sun May 17 14:21:13 PDT 2020
+ C17 C 3 ATMs Services 11 Sun May 17 14:21:13 PDT 2020
+ C18 C 3 ATMs Services 11 Sun May 17 14:21:13 PDT 2020
+ C19 C 3 ATMs Services 11 Sun May 17 14:21:13 PDT 2020
+ C20 C 3 ATMs Services 11 Sun May 17 14:21:13 PDT 2020
+ C21 C 3 ATMs Services 11 Sun May 17 14:21:14 PDT 2020
+ C22 C 3 ATMs Services 11 Sun May 17 14:21:14 PDT 2020
+ C23 C 3 ATMs Services 11 Sun May 17 14:21:14 PDT 2020
+ C24 C 3 ATMs Services 11 Sun May 17 14:21:14 PDT 2020
+ C25 C 3 ATMs Services 11 Sun May 17 14:21:14 PDT 2020
+ C26 C 3 ATMs Services 11 Sun May 17 14:21:14 PDT 2020
+ C27 C 3 ATMs Services 11 Sun May 17 14:21:15 PDT 2020
+ C28 C 3 ATMs Services 11 Sun May 17 14:21:15 PDT 2020
+omar A3 A 1 Advancing of Loans 1 Sun May 17 14:21:23 PDT 2020
+j D1 D 4 Online banking 14 Sun May 17 14:21:29 PDT 2020
+ D2 D 4 Online banking 14 Sun May 17 14:21:31 PDT 2020
+ D3 D 4 Online banking 14 Sun May 17 14:21:31 PDT 2020
+ D4 D 4 Online banking 14 Sun May 17 14:21:31 PDT 2020
+ D5 D 4 Online banking 14 Sun May 17 14:21:31 PDT 2020
+ D6 D 4 Online banking 14 Sun May 17 14:21:31 PDT 2020
+ D7 D 4 Online banking 14 Sun May 17 14:21:31 PDT 2020
+ D8 D 4 Online banking 14 Sun May 17 14:21:31 PDT 2020
+ D9 D 4 Online banking 14 Sun May 17 14:21:32 PDT 2020
+ A4 A 1 overdraft 2 Sun May 17 14:21:39 PDT 2020
+ B1 B 2 Counstancy 7 Sun May 17 14:21:44 PDT 2020
+ B2 B 2 Counstancy 7 Sun May 17 14:21:44 PDT 2020
+ B3 B 2 Counstancy 7 Sun May 17 14:21:44 PDT 2020
+ B4 B 2 Counstancy 7 Sun May 17 14:21:45 PDT 2020
+ B5 B 2 Counstancy 7 Sun May 17 14:21:45 PDT 2020
+ B6 B 2 Counstancy 7 Sun May 17 14:21:45 PDT 2020
+ B7 B 2 Counstancy 7 Sun May 17 14:21:45 PDT 2020
+ B8 B 2 Counstancy 7 Sun May 17 14:21:45 PDT 2020
+ B9 B 2 Counstancy 7 Sun May 17 14:21:45 PDT 2020
+ B10 B 2 Counstancy 7 Sun May 17 14:21:46 PDT 2020
+ B11 B 2 Counstancy 7 Sun May 17 14:21:46 PDT 2020
+ B12 B 2 Counstancy 7 Sun May 17 14:21:46 PDT 2020
+ B13 B 2 Counstancy 7 Sun May 17 14:21:46 PDT 2020
